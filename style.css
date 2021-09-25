@@ -27,3 +27,19 @@ input {
   color: purple;
   border: 2px solid purple;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+a {
+  text-decoration: none;
+}
