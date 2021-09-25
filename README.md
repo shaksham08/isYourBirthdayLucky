@@ -3,6 +3,6 @@
 An application to know if your birthday is lucky or not.
 
 
-GITHUB :- 
+GITHUB :- https://github.com/shaksham08/isYourBirthdayLucky
 
-LIVE LINK:- 
+LIVE LINK:-  https://isyourbirthdayluckychck.netlify.app/
